@@ -1,0 +1,9 @@
+{
+  "name": "battle-host",
+  "version": "0.0.0",
+  "description": "BattleHost",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
